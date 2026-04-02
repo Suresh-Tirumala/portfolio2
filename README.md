@@ -1,38 +1,13 @@
-# 🔐 Karthigaiselvam R - Portfolio
+#  - Portfolio
 
 > **Security Researcher & Software Developer**  
 > *Exploring the intersection of secure infrastructure and modern web experiences.*
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Cyber Security](https://img.shields.io/badge/Theme-Cyber_Security-00ff88?style=for-the-badge&logoColor=black)
 
 A highly interactive, cyber-security themed portfolio website built to showcase penetration testing achievements, software development projects, and professional experience.
 
 ---
 
-## 📸 Screenshots
 
-<p align="center">
-  <img src="public/images/image.png" alt="Hero Section" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="public/images/image copy.png" alt="About Section" width="48%"/>
-  <img src="public/images/image copy 2.png" alt="Experience Section" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="public/images/image copy 3.png" alt="Skills Section" width="48%"/>
-  <img src="public/images/image copy 4.png" alt="Projects Section" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="public/images/image copy 5.png" alt="Contact Section" width="100%"/>
-</p>
-
----
 
 ## ✨ Key Features
 
